@@ -1,0 +1,55 @@
+<HTML>
+<HEAD>
+   <META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=Shift_JIS">
+   <META NAME="GENERATOR" CONTENT="Mozilla/4.05 [ja] (Win95; I) [Netscape]">
+   <TITLE>DREAM ON DIGITAL HOME PAGE</TITLE>
+	<STYLE type="text/css">
+		P.special { margin-left: 40px;
+					margin-top: 0px }
+		P.nomargin { margin-left: 0px;
+					margin-top: 0px }
+		P.px10 {  font-family: "ＭＳ Ｐゴシック", "Osaka"; font-size: 12px}
+		a:hover {  color: #FF9900}
+	</STYLE>
+</HEAD>
+<BODY BACKGROUND="./img/bg1.gif" bgcolor="#ff0000" TEXT="#000000" LINK="#000099" VLINK="#000099" ALINK="#000099">
+<CENTER>
+<BR><BR>私達が、貴方の海で暮らす、沖縄で暮らすをサポートします。
+<BR><BR><IMG SRC="./img/ban_oki.gif" ALT="OkinawaQA Title" width="135"><BR>
+
+		<BR><BR>
+		- Index -
+</CENTER>
+		<BR>
+<TABLE><TD border=1 bgcolor="#99ccff" width="120" height="30">
+		<A HREF="./main.html" target="content">■トップページ</A>
+</TD></TABLE>
+<TABLE><TD border=1 bgcolor="#99ccff" width="120" height="30">
+		<A HREF="./hajime.html" target="content">■はじめに</A>
+</TD></TABLE>
+<TABLE><TD border=1 bgcolor="#99ccff" width="120" height="30">
+		<A HREF="./input.html" target="content">■プロフィール登録</A>
+</TD></TABLE>
+<TABLE><TD border=1 bgcolor="#99ccff" width="120" height="30">
+		<A HREF="./okinawaQA.html" target="content">■沖縄生活Ｑ＆Ａ</A>
+</TD></TABLE>
+<TABLE><TD border=1 bgcolor="#99ccff" width="120" height="30">
+		<A HREF="http://www60.tcup.com/6006/dod.html" target="content">■沖縄生活掲示板</A>
+</TD></TABLE>
+<TABLE><TD border=1 bgcolor="#99ccff" width="120" height="30">
+		<A HREF="http://www.pref.okinawa.jp/toukeika/" target="content">■沖縄県の統計</A>
+</TD></TABLE>
+<TABLE><TD border=1 bgcolor="#99ccff" width="120" height="30">
+		<A HREF="./link.html"  target="content">■沖縄関連ＬＩＮＫ</A>
+</TD></TABLE>
+
+<BR>
+<TABLE BORDER=6 CELLSPACING=0  CELLPADDING=0 VALIGN="top" WIDTH="120" >
+	<TR><TD BORDER=1 WIDTH="130" height="100" VALIGN="top" CELLPADDING=0 COLSPAN="2" BGCOLOR="#99ffff">
+		プロフィールをご登録すると、当方から貴方に合った会社をご紹介します。
+		<A HREF="./info.html" target="content">■</FONT>
+		<FONT SIZE=-1 class="px10">お仕事紹介までの流れ</FONT><BR></A>
+	</TD><TR>
+</TABLE>
+</BODY>
+</HTML>

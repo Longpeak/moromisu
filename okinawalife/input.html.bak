@@ -1,0 +1,215 @@
+<HTML>
+<HEAD>
+   <META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=Shift_JIS">
+   <META NAME="GENERATOR" CONTENT="Mozilla/4.05 [ja] (Win95; I) [Netscape]">
+   <TITLE>DREAM ON DIGITAL HOME PAGE</TITLE>
+<style type="text/css">.px10 {  font-family: "ＭＳ Ｐゴシック", "Osaka"; font-size: 12px}
+		P.special { margin-left: 10px;
+					margin-top: 0px }
+		P.special2 { margin-left: 50px;
+					margin-top: 0px }
+		P.nomargin { margin-left: 0px;
+					margin-top: 0px }
+a:hover {  color: #FF9900}
+</style>
+
+</HEAD>
+<BODY  TEXT="#000000" BGCOLOR="#FFFFFF" LINK="#0000FF" VLINK="#000080" ALINK="#FF00FF" BODY topmargin="0" leftmargin="0">
+<FORM action="http://resq.to/fwd/fwd.cgi" ENCTYPE="multipart/form-data" method=POST>
+<!--●必須設定--><input type=hidden name="_mailto" value="dod@nirai.ne.jp"><!--登録したアドレス-->
+<!--●必須設定--><input type=hidden name="_bye" value="http://w1.nirai.ne.jp/dod/okinawa/thank.html"><!--送信後のページ-->
+<!--▲任意設定--><input type=hidden name="_subject" value="[登録メール]"><!--受け取るメールの題名-->
+<!--▲任意設定--><input type=hidden name="_csv" value="0"><!--値をCSVでも受け取る:1 必要なし:0(デフォルト)-->
+<!--▲任意設定--><input type=hidden name="_print" value="0"><!--メールの配置方法 1:名前と値が同じ行 2:値のみ 0:名前と値が別行(デフォルト)-->
+<!--▲任意設定--><input type=hidden name="_option" value=""><!--送信ボタンを押したと同時にメール送信する場合は value="direct" と設定-->
+
+<CENTER>
+<BR><IMG SRC="./img/profile.jpg" ALT="プロフィール登録タイトル"><BR>
+<BR>
+<P class="special2" align="left">
+沖縄移住の第一歩です。<BR>
+貴方の個人プロフィール、職務経験、アピールポイントをご登録下さい。<BR>
+個人を特定できる情報は一切企業には公開されません。<BR>
+又、各企業からアクセスは全て「沖縄生活」を通して送られますので、ご安心の上、ご登録ください。 <BR>
+（下記の※印は必ず入力して下さい。）<BR><BR>
+</P>
+</CENTER>
+<P class="special" align="left"><BR>
+		<TABLE BORDER=1 CELLSPACING=0 CELLPADDING=0 WIDTH="100%">
+
+            <tr>
+                <td align="center" bgcolor="#ccffcc">氏　名　※</td>
+                <td bgcolor="#cccccc"><input type="text" name="氏名（漢字）" size="24"><BR>
+				<P class="special" align="left">※全角で入力して下さい。<BR>
+				例）沖縄　太郎</P></td>
+            </tr>
+            <tr>
+                <td align="center" bgcolor="#ccffcc">フリガナ　※</td>
+                <td bgcolor="#cccccc"><input type="text" name="氏名（カナ）" size="24"><BR>
+                <P class="special" align="left">※全角カナで入力して下さい。<BR>
+				例）オキナワ　タロウ</P></td>
+            </tr>
+            <tr>
+                <td align="center" bgcolor="#ccffcc">郵便番号</td>
+                <td bgcolor="#cccccc"><input type="text" name="郵便番号" size="12">
+				<P class="special" align="left">
+				例）123-1234</P>
+				</td>
+            </tr>
+            <tr>
+                <td align="center" bgcolor="#ccffcc">住　所　※</td>
+                <td bgcolor="#cccccc"><input type="text" name="住所" size="50">
+				<P class="special" align="left">
+				※全角で入力して下さい。<BR>
+				例）東京都杉並区天沼９９丁目９９番地　○○○アパート１２３号室</P>
+				</td>
+            </tr>
+            <tr>
+                <td align="center" bgcolor="#ccffcc">電話番号　※</td>
+                <td bgcolor="#cccccc"><input type="text" name="電話番号" size="12">
+				<P class="special" align="left">
+				※半角数字で入力して下さい。連絡をしても差し支えない番号をお書きください。<BR>
+				例）03-1234-1234</P>
+				</td>
+            </tr>
+            <tr>
+                <td align="center" bgcolor="#ccffcc">ＦＡＸ</td>
+                <td bgcolor="#cccccc"><input type="text" name="ＦＡＸ" size="12"></td>
+            </tr>
+            <tr>
+                <td align="center" bgcolor="#ccffcc">緊急連絡先（携帯電話等）</td>
+                <td bgcolor="#cccccc"><input type="text" name="緊急連絡先" size="12">
+				<P class="special" align="left">
+					※「電話番号」で連絡がつかない場合、こちらにお電話を差し上げます。
+				</P>
+				</td>
+            </tr>
+            <tr>
+                <td align="center" bgcolor="#ccffcc">E-Mail</td>
+                <td bgcolor="#cccccc"><input type="text" name="メールアドレス" size="24"></td>
+            </tr>
+            <tr>
+                <td align="center" bgcolor="#ccffcc">性　別</td>
+                <td bgcolor="#cccccc">　　男<input type="radio" value="MALE" name="性別" checked>　　　女<input type="radio" value="FEMALE" name="SEX"></td>
+            </tr>
+            <tr>
+                <td align="center" bgcolor="#ccffcc">配偶者の有無</td>
+                <td bgcolor="#cccccc">　なし<input type="radio" value="0" name="SPOUSE" checked>　　あり<input type="radio" value="1" name="SPOUSE"></td>
+            </tr>
+            <tr>
+                <td align="center" bgcolor="#ccffcc">生年月日　※</td>
+                <td bgcolor="#cccccc">西暦 <input type="text" name="誕生日西暦" size="4" maxlength="4">年 <input type="text" name="誕生日月" size="2" maxlength="2">月 <input type="text" name="誕生日" size="2" maxlength="2">日</td>
+            </tr>
+            <tr>
+                <td align="center" bgcolor="#ccffcc">満年齢</td>
+                <td bgcolor="#cccccc"><input type="text" name="年齢" size="2" maxlength="2"> 歳</td>
+            </tr>
+            <tr>
+                <td align="center" bgcolor="#ccffcc">出身地</td>
+                <td bgcolor="#cccccc">
+                
+                <SELECT NAME="出身地"><OPTION VALUE="北海道" SELECTED>北海道
+                                        <OPTION VALUE="青森">青森
+                                        <OPTION VALUE="岩手">岩手
+                                        <OPTION VALUE="宮城">宮城
+                                        <OPTION VALUE="秋田">秋田
+                                        <OPTION VALUE="山形">山形
+                                        <OPTION VALUE="福島">福島
+                                        <OPTION VALUE="茨城">茨城
+                                        <OPTION VALUE="栃木">栃木
+                                        <OPTION VALUE="群馬">群馬
+                                        <OPTION VALUE="埼玉">埼玉
+                                        <OPTION VALUE="千葉">千葉
+                                        <OPTION VALUE="東京">東京
+                                        <OPTION VALUE="神奈川">神奈川
+                                        <OPTION VALUE="山梨">山梨
+                                        <OPTION VALUE="新潟">新潟
+                                        <OPTION VALUE="長野">長野
+                                        <OPTION VALUE="富山">富山
+                                        <OPTION VALUE="石川">石川
+                                        <OPTION VALUE="福井">福井
+                                        <OPTION VALUE="岐阜">岐阜
+                                        <OPTION VALUE="静岡">静岡
+                                        <OPTION VALUE="愛知">愛知
+                                        <OPTION VALUE="三重">三重
+                                        <OPTION VALUE="滋賀">滋賀
+                                        <OPTION VALUE="京都">京都
+                                        <OPTION VALUE="大阪">大阪
+                                        <OPTION VALUE="兵庫">兵庫
+                                        <OPTION VALUE="奈良">奈良
+                                        <OPTION VALUE="和歌山">和歌山
+                                        <OPTION VALUE="鳥取">鳥取
+                                        <OPTION VALUE="島根">島根
+                                        <OPTION VALUE="岡山">岡山
+                                        <OPTION VALUE="広島">広島
+                                        <OPTION VALUE="山口">山口
+                                        <OPTION VALUE="徳島">徳島
+                                        <OPTION VALUE="香川">香川
+                                        <OPTION VALUE="愛媛">愛媛
+                                        <OPTION VALUE="高知">高知
+                                        <OPTION VALUE="福岡">福岡
+                                        <OPTION VALUE="佐賀">佐賀
+                                        <OPTION VALUE="長崎">長崎
+                                        <OPTION VALUE="熊本">熊本
+                                        <OPTION VALUE="大分">大分
+                                        <OPTION VALUE="宮崎">宮崎
+                                        <OPTION VALUE="鹿児島">鹿児島
+                                        <OPTION VALUE="沖縄">沖縄       </SELECT>
+            </tr>
+            <tr>
+                <td align="center" bgcolor="#ccffcc">最終学歴</td>
+                <td bgcolor="#cccccc"><input type="text" name="最終学歴" size="36">
+				<P class="special" align="left">
+					例）○○大学卒、○○専門学校卒、大卒、高卒
+				</P>
+				</td>
+            </tr>
+            <tr>
+                <td align="center" bgcolor="#ccffcc">希望年収</td>
+                <td bgcolor="#cccccc"><input type="text" name="希望年収" size="12" maxlength="4"> 万円</td>
+            </tr>
+            <tr>
+                <td align="center" bgcolor="#ccffcc">希望職種</td>
+                <td bgcolor="#cccccc"><textarea name="希望職種" cols="50" rows="4"></textarea>
+				<P class="special" align="left">
+				※複数記述してもかまいません。<BR>
+				例）コンピュータプログラマ、ＷＥＢデザイナ
+				</P>
+				</td>
+            </tr>
+            <tr>
+                <td align="center" bgcolor="#ccffcc">自己ＰＲ</td>
+                <td bgcolor="#cccccc"><textarea name="自己ＰＲ" cols="50" rows="5"></textarea>
+				<P class="special" align="left">
+				※貴方の得意分野、趣味、仕事上の技術など何でもかまいません。<BR>
+				(出来るだけ詳細にお願いします）
+				</P>
+				</td>
+            </tr>
+            <tr>
+                <td align="center" bgcolor="#ccffcc">備考</td>
+                <td bgcolor="#cccccc"><textarea name="備考" cols="50" rows="5"></textarea>
+				<P class="special" align="left">
+				※当サイトのこと、沖縄のことなど何でもかまいません自由に書いてください。
+				</P>				
+				</td>
+            </tr>
+            <tr>
+                <td align="center" bgcolor="#ccffcc">連絡方法</td>
+                <td bgcolor="#cccccc"><INPUT TYPE=checkbox NAME="連絡方法" VALUE="MAIL">E-mail　<INPUT TYPE=checkbox NAME=renraku VALUE="TEL">電話　<INPUT TYPE=checkbox NAME=renraku VALUE=HANDY>携帯電話　<INPUT TYPE=checkbox NAME=renraku VALUE="FAX">FAX　
+				<P class="special" align="left">
+				※上記で選択した項目を連絡をとる場合に優先させて頂きます。
+				</P>
+				</td>
+            </tr>
+			
+		</TABLE>
+</P>
+<BR>
+<INPUT TYPE=submit VALUE="   ○ 送信   "><INPUT TYPE=reset VALUE=" × 書き直し ">
+<BR>
+<BR>
+<CENTER>
+</FORM>
+</BODY>
+</HTML>

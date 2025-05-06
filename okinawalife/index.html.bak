@@ -1,0 +1,20 @@
+<HTML>
+<HEAD>
+   <META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=Shift_JIS">
+   <META NAME="GENERATOR" CONTENT="Mozilla/4.05 [ja] (Win95; I) [Netscape]">
+   <TITLE>沖縄生活</TITLE>
+	<STYLE type="text/css">
+		P.special { margin-left: 40px;
+					margin-top: 0px }
+		P.nomargin { margin-left: 0px;
+					margin-top: 0px }
+		P.px10 {  font-family: "ＭＳ Ｐゴシック", "Osaka"; font-size: 12px}
+		a:hover {  color: #FF9900}
+	</STYLE>
+</HEAD>
+
+<FRAMESET cols="155,*" frameborder="0" border="0" framespacing="0">
+	<FRAME src="menu.html" frameborder="0" name="menu">
+	<FRAME src="main.html" frameborder="0" name="content">
+</FRAMESET>
+</HTML>
